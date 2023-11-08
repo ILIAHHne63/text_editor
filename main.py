@@ -128,5 +128,4 @@ class Editor:
 
         self.editor_window.mainloop()
 
-
 elem = Editor()
