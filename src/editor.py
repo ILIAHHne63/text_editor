@@ -1,5 +1,5 @@
 from tkinter import WORD, LEFT, Tk, Scrollbar, RIGHT, Y, Frame, Text, BOTH, Menu
-from actions import Actions
+from src.actions import Actions
 
 class Editor:
 
