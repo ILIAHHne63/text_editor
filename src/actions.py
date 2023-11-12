@@ -1,6 +1,5 @@
 from tkinter import filedialog, simpledialog, messagebox, END, INSERT
-import font
-import size
+from src import size, font
 
 
 class Actions():
